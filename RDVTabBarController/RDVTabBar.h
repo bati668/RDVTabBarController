@@ -49,7 +49,7 @@
 /**
  * The items displayed on the tab bar.
  */
-@property (nonatomic, copy) NSArray *items;
+@property (nonatomic, copy) NSArray<RDVTabBarItem *>* items;
 
 /**
  * The currently selected item on the tab bar.
