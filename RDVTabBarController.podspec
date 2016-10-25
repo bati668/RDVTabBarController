@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "1.1.9"
   s.summary      = "Highly customizable tabBar and tabBarController for iOS"
   s.description  = "RDVTabBarController is iPad and iPhone compatible. Supports landscape and portrait orientations and can be used inside UINavigationController."
-  s.homepage     = "https://github.com/robbdimitrov/RDVTabBarController"
+  s.homepage     = "https://github.com/bati668/RDVTabBarController"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { "Robert Dimitrov" => "robert_dimitrov@me.com" }
   s.platform     = :ios, '5.0'
